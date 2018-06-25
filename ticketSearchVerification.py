@@ -51,8 +51,7 @@ def main():
 
             if errors == False:
                 print("Success: ticket results match our search!")
-            else:
-                pass
+            
 
             counter += 1
             result_List = []
